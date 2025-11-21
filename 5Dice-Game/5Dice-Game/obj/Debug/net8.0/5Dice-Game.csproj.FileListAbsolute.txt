@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\5Dice-Game\5Dice-Game\bin\Debug\net8.0\5Dice-Game.exe
+C:\Users\PC\source\repos\5Dice-Game\5Dice-Game\bin\Debug\net8.0\5Dice-Game.deps.json
+C:\Users\PC\source\repos\5Dice-Game\5Dice-Game\bin\Debug\net8.0\5Dice-Game.runtimeconfig.json
+C:\Users\PC\source\repos\5Dice-Game\5Dice-Game\bin\Debug\net8.0\5Dice-Game.dll
+C:\Users\PC\source\repos\5Dice-Game\5Dice-Game\bin\Debug\net8.0\5Dice-Game.pdb
+C:\Users\PC\source\repos\5Dice-Game\5Dice-Game\obj\Debug\net8.0\5Dice-Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\5Dice-Game\5Dice-Game\obj\Debug\net8.0\5Dice-Game.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\5Dice-Game\5Dice-Game\obj\Debug\net8.0\5Dice-Game.AssemblyInfo.cs
+C:\Users\PC\source\repos\5Dice-Game\5Dice-Game\obj\Debug\net8.0\5Dice-Game.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\5Dice-Game\5Dice-Game\obj\Debug\net8.0\5Dice-Game.dll
+C:\Users\PC\source\repos\5Dice-Game\5Dice-Game\obj\Debug\net8.0\refint\5Dice-Game.dll
+C:\Users\PC\source\repos\5Dice-Game\5Dice-Game\obj\Debug\net8.0\5Dice-Game.pdb
+C:\Users\PC\source\repos\5Dice-Game\5Dice-Game\obj\Debug\net8.0\5Dice-Game.genruntimeconfig.cache
+C:\Users\PC\source\repos\5Dice-Game\5Dice-Game\obj\Debug\net8.0\ref\5Dice-Game.dll
